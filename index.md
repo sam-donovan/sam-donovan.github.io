@@ -9,8 +9,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Current Interests and Projects:
 
+<<<<<<< Updated upstream
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - DLorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
+=======
+- [Google Scholar](https://scholar.google.com/citations?user=8Fa66PQAAAAJ&hl=en)
+- [QUBESHub.org](https://qubeshub.org)
+- NSITE
+- HITS
+- RIOS/SCORE
+
+>>>>>>> Stashed changes
