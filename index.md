@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "You have found Sam Donovan"
 menutitle: Home
 menuorder: 1
 ---
@@ -21,5 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - NSITE
 - HITS
 - RIOS/SCORE
+- BIRDD
+- SGCI
+- CREEDS
 
 >>>>>>> Stashed changes
